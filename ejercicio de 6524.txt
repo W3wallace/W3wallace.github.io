@@ -1,0 +1,131 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+struct Student(
+    
+    string name;
+    string surname;
+    string school;
+    string grade;
+    string age;
+);
+void print_student_info(const Student& students);
+int count_student(const vector <Studens>& student);
+void print_student(const vector <Students>& student);
+int main(){
+
+        Student Wallace;
+        wallace.name = "Wallace";
+        wallace.surname = "Luo";
+        wallace.school = "bautista";
+        wallace.grade = "primer año";
+        wallace.age = 20;
+
+        Student Sebas;
+        sebas.name ="sebas";
+        sebas.surmane ="gurachi",
+        sebas.school = "La salle",
+        sebas.grade ="Primer año",
+        sebas.age = 18
+        
+        Student Cley;
+        Cley.name"Jose",
+            "cabrera",
+            "nt",
+            "Ultimo año",
+            29
+        Student student3;
+            "Jose",
+            "cabrera",
+            "nt",
+            "Ultimo año",
+            29
+        Student student4;
+            "Jose",
+            "cabrera",
+            "nt",
+            "Ultimo año",
+            29
+
+        
+        
+        };
+
+        print student;
+
+        vector<Student> students;
+        Student.push_back(lucas);
+        Student.push_back(sebas);
+        Student.push_back(studen2);
+        Student.push_back(studen3);
+        Student.push_back(studen4);
+
+
+
+    return 0;       
+
+
+        print_student_info(wallace);
+        print_student_info(student1);
+
+        int result = result count_students(students);
+        cout<<"number of student"
+
+
+
+
+    void print_student_info(const Student& student){
+        cout<<"Student information"<< endd
+
+
+
+    }
+
+
+    
+return 0;
+
+}
+    
+    struct Student(
+
+    );
+
+    void print_student_info(const Student& student);
+    int count_students(vector<Student> student){
+
+    }
+
+    int main(){
+        Student Wallace;
+        wallace.name = "Wallace";
+        wallace.surname = "Luo";
+        wallace.school = "bautista";
+        wallace.grade = "primer año";
+        wallace.age = 20;
+
+        Student student1={
+            "Jose",
+            "cabrera",
+            "nt",
+            "Ultimo año",
+            29
+        }
+
+        print_student_info(wallace);
+        print_student_info(student1);
+
+
+
+
+    void print_student_info(const Student& student) {
+
+    }
+
+
+    
+return 0;
+    }
+    
